@@ -1,0 +1,51 @@
+.centertext {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+#outer {
+  height: 100vh;
+  width: 100%;
+  background-image: url("https://www.publicdomainpictures.net/pictures/230000/velka/chicago-skyline-at-night-1505924392KrN.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#topmargin {
+  padding-top: 8%;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.enlargewelcome {
+  font-size: 75px;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#viewbutton {
+  border-radius: 12px;
+  width: 200px;
+  height: 60px;
+  font-size: 23px;
+  border: 3px solid blue;
+  background-color: deepskyblue;
+}
+
+#viewbutton:hover {
+  background-color: blue;
+}
+
+#longitude,
+#latitude {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}

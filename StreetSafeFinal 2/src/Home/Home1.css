@@ -1,0 +1,80 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Home {
+  text-align: center;
+}
+
+.Home-header {
+  background-image: url("https://media.sabrecdn.com/wyndhamchicago/application/files/1314/7153/9188/HP-Mast-View.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.Home-logo {
+  height: 200px;
+}
+
+.Home-title {
+  color: white;
+}
+
+.Home-intro {
+  font-size: 22px;
+}
+
+.stuff {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  float: left;
+	color:black;
+  width: 45%;
+  height: 45vh;
+  margin-left: 50px;
+  margin-top: 50px;
+  background: grey; /* For browsers that do not support gradients */
+  background: linear-gradient(
+    to bottom,
+    lightgrey,
+		grey
+  ); /* Standard syntax (must be last) */
+}
+
+.aboutstuff {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  float: right;
+	color: black;
+  background: linear-gradient(
+    to bottom,
+    lightgrey,
+    grey
+  );
+  margin-right: 50px;
+  margin-top: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 45vh;
+  width: 45%;
+}
+
+.aboutinfo {
+  font-size: 17px;
+}
+
+.about{
+  padding-left: 80px;
+}
+
+#home-content {
+  background-image: url('https://maproom.net/wp-content/uploads/Manchester-map-preview-1.png');
+  height: 65vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}

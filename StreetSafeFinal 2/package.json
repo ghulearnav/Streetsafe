@@ -1,0 +1,22 @@
+{
+  "name": "runner",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-md": "1.4.2",
+    "react-anchor-link-smooth-scroll": "1.0.10",
+    "react-awesome-button": "4.2.1",
+    "react-geolocation": "1.0.3",
+    "react-ripples": "1.1.2",
+    "react-mdl": "1.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

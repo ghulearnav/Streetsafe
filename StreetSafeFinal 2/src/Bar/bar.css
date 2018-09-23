@@ -1,0 +1,35 @@
+table {
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.home {
+  background-color: greenyellow;
+  width: 60px;
+  height: 40px;
+}
+.map {
+  background-color: whitesmoke;
+  width: 60px;
+}
+.team {
+  background-color: whitesmoke;
+  width: 60px;
+}
+.pic {
+  text-align: left;
+  width: 1300px;
+}
+
+.map:hover {
+  background: none repeat scroll 0 0 #ffcf8b;
+  color: #000000;
+}
+.team:hover {
+  background: none repeat scroll 0 0 #ffcf8b;
+  color: #000000;
+}
+.home:hover {
+  background: none repeat scroll 0 0 rgb(139, 255, 249);
+  color: #000000;
+}
